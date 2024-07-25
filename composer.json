@@ -1,0 +1,17 @@
+{
+    "require": {
+        "ramsey/uuid": "^4.7",
+        "jenssegers/agent": "^2.6",
+        "hdteam/bitrix-ext": "^1.2"
+    },
+    "repositories": {
+        "76918445": {
+            "type": "composer",
+            "url": "https://gitlab.com/api/v4/group/76918445/-/packages/composer/packages.json"
+        },
+        "0": {
+            "type": "composer",
+            "url": "https://gitlab.com/api/v4/group/76918445/-/packages/composer/packages.json"
+        }
+    }
+}
