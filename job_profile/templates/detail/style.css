@@ -1,0 +1,436 @@
+div.workarea-content-paddings, div#workarea, div#workarea-content {
+    overflow: unset !important;
+    background-color: transparent;
+}
+
+div.workarea-content-paddings {
+    padding: 0 15px 20px 0;
+}
+
+.bx-layout-inner-inner-top-row {
+    display: none;
+}
+
+div.workarea-content-paddings, div#workarea, div#workarea-content {
+    overflow: unset !important;
+    background-color: transparent;
+}
+
+div.workarea-content-paddings {
+    padding: 0 15px 20px 0;
+}
+
+.bx-layout-inner-inner-top-row {
+    display: none;
+}
+
+#job_profile {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    color: #230446;
+    margin-top: 28px;
+}
+
+#job_profile h1 {
+    font-family: 'Gerbera';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 32px;
+    color: #230446;
+    padding: 0;
+    margin: 28px 0 16px 0;
+}
+
+#job_profile .header > div {
+    margin-bottom: 24px;
+}
+
+#job_profile .block {
+    margin: 24px 0;
+}
+#job_profile .block:first-child {
+    margin-top: 10px!important;
+}
+
+#job_profile .block > .label {
+    margin-bottom: 16px;
+}
+
+#job_profile .radio-group {
+    display: flex;
+    gap: 32px;
+}
+
+#job_profile .radio-group .radio-group-item {
+    min-width: 100px;
+}
+
+#job_profile h2 {
+    font-family: 'Gerbera';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 32px;
+    color: #230446;
+    padding: 0;
+    margin: 0;
+}
+
+#job_profile .panel {
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding: 24px 16px;
+}
+
+#job_profile .panel-header:first-child,
+#job_profile .renins-button + .panel-header {
+    margin-top: 0!important;
+    margin-bottom: 0!important;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 8px;
+}
+
+#job_profile .panel-header {
+    font-family: 'Gerbera';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #230446;
+}
+
+#job_profile .panel .panel-row {
+    margin-top: 16px;
+}
+#job_profile .col-6:nth-child(n + 3) {
+    margin-top: 24px;
+}
+
+#job_profile .renins-text-input-wrap,
+#job_profile .renins-text-input-field {
+    width: 100%;
+}
+
+#job_profile .observer-caption {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 14px;
+    color: #310562;
+}
+
+#job_profile .file-caption {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    color: #230446;
+    margin-top: 32px;
+}
+
+#job_profile .userselector-inner .input-field {
+    max-width: 100%;
+}
+
+#job_profile .error_caption_file,
+#job_profile .error_caption_block {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    color: #FF3A3A;
+    margin-top: 8px;
+    padding-left: 20px;
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-image: url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg clip-path='url(%23clip0_10950_1129)'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M7.99984 2.00008C4.68613 2.00008 1.99984 4.68637 1.99984 8.00008C1.99984 11.3138 4.68613 14.0001 7.99984 14.0001C11.3135 14.0001 13.9998 11.3138 13.9998 8.00008C13.9998 4.68637 11.3135 2.00008 7.99984 2.00008ZM0.666504 8.00008C0.666504 3.94999 3.94975 0.666748 7.99984 0.666748C12.0499 0.666748 15.3332 3.94999 15.3332 8.00008C15.3332 12.0502 12.0499 15.3334 7.99984 15.3334C3.94975 15.3334 0.666504 12.0502 0.666504 8.00008ZM7.99984 4.66675C8.36803 4.66675 8.6665 4.96522 8.6665 5.33341V8.00008C8.6665 8.36827 8.36803 8.66675 7.99984 8.66675C7.63165 8.66675 7.33317 8.36827 7.33317 8.00008V5.33341C7.33317 4.96522 7.63165 4.66675 7.99984 4.66675ZM7.33317 10.6667C7.33317 10.2986 7.63165 10.0001 7.99984 10.0001H8.0065C8.37469 10.0001 8.67317 10.2986 8.67317 10.6667C8.67317 11.0349 8.37469 11.3334 8.0065 11.3334H7.99984C7.63165 11.3334 7.33317 11.0349 7.33317 10.6667Z' fill='%23FF3A3A'/%3E%3C/g%3E%3Cdefs%3E%3CclipPath id='clip0_10950_1129'%3E%3Crect width='16' height='16' fill='white'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E%0A");
+}
+.error_caption_block {
+    display: none;
+}
+.panel.error {
+    border: 2px solid var(--text-error);
+}
+#job_profile .panel.error .panel-header {
+    color: var(--text-error);
+}
+#job_profile .panel.error .error_caption_block {
+    display: block;
+    position: absolute;
+    margin-top: 22px;
+}
+
+#job_profile .param-head {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    margin-bottom: 4px;
+    color: #6E748C;
+}
+.panel-row > div:not(:last-child) {
+    margin-bottom: 4px;
+}
+
+#job_profile button.renins-button-group-item {
+    min-width: 153px;
+}
+#job_profile .block-row {
+    display: flex;
+    align-items: center;
+}
+#job_profile .block-row:not(:last-child) {
+    margin-bottom: 16px;
+}
+#job_profile .block {
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    color: #310562;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    overflow-wrap: break-word;
+}
+#job_profile .add-approvers {
+    display: flex;
+}
+#job_profile .renins-form-modal-container .block {
+    margin-top: 24px;
+}
+
+#job_profile .block.panel {
+    color: #230446;
+}
+
+#job_profile .block-desc {
+    margin-bottom: 8px;
+    color: #230446;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#job_profile .high-margin .panel-row:not(:last-child),
+#job_profile .high-margin .block-row:not(:last-child) {
+    margin-bottom: 24px;
+}
+#job_profile .high-margin .block-desc {
+    margin-bottom: 16px;
+}
+
+#job_profile .block-border {
+    padding: 24px 28px;
+    margin-bottom: 24px;
+    border-radius: 16px;
+    border: 1px solid #CCCFDE;
+}
+
+#job_profile .pads-row,
+#job_profile .pads-row > div {
+    display: flex;
+    align-items: center;
+}
+#job_profile .pads-row > div:not(:last-child) {
+    margin-right: 24px;
+}
+#job_profile .renins-pad-icon {
+    margin-right: 8px;
+}
+
+#job_profile .goals-list {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+#job_profile .goals-list > div:first-child {
+    flex: 1;
+}
+
+#job_profile .languages-list {
+    display: flex;
+    gap: 16px;
+}
+
+#job_profile .languages-list > div:not(:last-child) {
+    flex: 1;
+}
+#job_profile .tasc-list__table .renins-badge-label {
+    margin-top: 0;
+}
+#job_profile .question-item {
+    display: flex;
+    padding: 24px 16px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    align-self: stretch;
+    border-radius: 8px;
+    background: rgba(30, 34, 46, 0.04);
+
+    color: #230446;
+    font-feature-settings: 'clig' off, 'liga' off;
+    /* Web/Body */
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 133.333% */
+}
+#job_profile .question-item:not(:last-child) {
+    margin-bottom: 12px;
+}
+
+#job_profile span.renins-badge-label.active {
+    color: #230446;
+}
+
+.tasc-list__table {
+    display: table;
+    width: 100%;
+}
+
+.tasc-list__th,
+.tasc-list__tr {
+    display: table-row;
+}
+
+.tasc-list__tr > *,
+.tasc-list__th > * {
+    display: table-cell;
+    padding: 0 8px;
+    height: 48px;
+    background: #FFFFFF;
+    border-bottom: 1px solid #CCCFDE;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    color: #230446;
+    vertical-align: middle;
+}
+
+.tasc-list__th > * {
+    font-weight: 700;
+}
+#job_profile .tr-flex {
+    max-width: 314px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#job_profile .tasc-list__table.details .tr-flex {
+    max-width: none;
+}
+#job_profile .tr-flex2 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+#job_profile .tr-flex2 > div:first-child {
+    min-width: 136px;
+}
+#job_profile .table-header div:first-child {
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+}
+#job_profile .table-row > div:first-child {
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+}
+#job_profile .first-col {
+    width: 44px;
+    text-align: center;
+    padding: 0;
+    height: 100%;
+}
+#job_profile .row {
+    align-items: center;
+}
+span.renins-pad-icon.sm {
+    min-width: 44px;
+}
+.renins-pad-icon + div {
+     margin-left: 16px;
+}
+#job_profile .renins-text-input-field {
+    width: auto;
+}
+#job_profile .nowrap {
+    white-space: nowrap;
+}
+#job_profile .tippy-box {
+    min-width: 550px;
+    color: #230446;
+}
+#job_profile .block-buttons {
+    margin-top: 40px;
+}
+#job_profile .renins-checkbox-label {
+    width: auto;
+}
+#job_profile input,
+#job_profile select {
+    font-family: 'Inter';
+}
+#job_profile .renins-form-modal-container {
+    overflow: auto;
+}
+
+#job_profile .dot:before {
+    position: relative;
+    display: inline;
+    content: "\22C5";
+    top: -3.5px;
+    vertical-align: middle;
+    font-size: 40px;
+}
+
+#job_profile .dot2 {
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    margin-bottom: 2px;
+    margin-right: 4px;
+    background-color: #6B6A9A;
+    background-size: contain;
+    -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%226%22%20viewBox%3D%220%200%206%206%22%20fill%3D%22none%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Crect%20width%3D%226%22%20height%3D%226%22%20rx%3D%223%22%20fill%3D%22%236B6A9A%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C%2Fsvg%3E");
+    mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%226%22%20height%3D%226%22%20viewBox%3D%220%200%206%206%22%20fill%3D%22none%22%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Crect%20width%3D%226%22%20height%3D%226%22%20rx%3D%223%22%20fill%3D%22%236B6A9A%22%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C%2Fsvg%3E");
+}
+
+#job_profile .list-approvers {
+    display: flex;
+    justify-content: space-between;
+}
+#job_profile .list-approvers .renins-button {
+    margin-left: 16px;
+}
+#job_profile .renins-form-modal-container {
+    padding: 32px;
+}
+.ellipsis_text {
+    white-space: nowrap!important;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-width: 270px;
+}
+
+.radio_error {
+    color: var(--light-text-errored);
+}

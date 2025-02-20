@@ -1,0 +1,290 @@
+div.workarea-content-paddings, div#workarea, div#workarea-content {
+    overflow: unset !important;
+    background-color: transparent;
+}
+
+div.workarea-content-paddings {
+    padding: 0 15px 20px 0;
+}
+
+.bx-layout-inner-inner-top-row {
+    display: none;
+}
+
+#job_profile {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    color: #230446;
+
+    margin-top: 28px;
+}
+
+#job_profile h1 {
+    font-family: 'Gerbera';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 32px;
+    color: #230446;
+    padding: 0;
+    margin: 28px 0 16px 0;
+}
+
+#job_profile h2 {
+    font-family: 'Gerbera';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 32px;
+    color: #230446;
+    padding: 0;
+    margin: 0;
+}
+
+#job_profile .block {
+    margin-top: 24px;
+
+    color: #310562;
+    font-feature-settings: 'clig' off, 'liga' off;
+    /* Web/Caption */
+    font-family: Inter;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 123.077% */
+}
+
+#job_profile .panel {
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding: 16px;
+    padding-bottom: 24px;
+    margin-top: 40px;
+}
+
+#job_profile .panel .panel-header {
+    font-family: 'Gerbera';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #230446;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 8px;
+}
+
+#job_profile .param-head {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    margin-bottom: 4px;
+    color: #310562;
+}
+
+#job_profile .panel .panel-row {
+    margin-top: 16px;
+}
+
+#job_profile .stages {
+    color: #230446;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+#job_profile .tasc-list__table .renins-badge-label {
+    margin-top: 0;
+}
+
+.tasc-list__table {
+    display: table;
+    width: 100%;
+}
+
+.tasc-list__th,
+.tasc-list__tr {
+    display: table-row;
+}
+
+.tasc-list__tr > *,
+.tasc-list__th > * {
+    display: table-cell;
+    padding: 0 8px;
+    height: 48px;
+    background: #FFFFFF;
+    border-bottom: 1px solid #CCCFDE;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    color: #230446;
+    vertical-align: middle;
+}
+
+.tasc-list__th > * {
+    font-weight: 700;
+}
+#job_profile .tr-flex {
+    max-width: 314px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#job_profile .tasc-list__table.details .tr-flex {
+    max-width: none;
+}
+#job_profile .tr-flex2 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+#job_profile .tr-flex2 > div:first-child {
+    min-width: 136px;
+}
+#job_profile .table-header div:first-child {
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+}
+#job_profile .table-row > div:first-child {
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+}
+#job_profile .first-col {
+    width: 44px;
+    text-align: center;
+    padding: 0;
+    height: 100%;
+}
+
+#job_profile button.renins-button-group-item {
+    min-width: 153px;
+}
+
+#job_profile .block-row:not(:last-child) {
+    margin-bottom: 16px;
+}
+#job_profile .high-margin .block-row:not(:last-child) {
+    margin-bottom: 24px;
+}
+#job_profile .high-margin .block-desc {
+    margin-bottom: 16px;
+}
+
+#job_profile .block-border {
+    padding: 24px 28px;
+    border-radius: 16px;
+    border: 1px solid #CCCFDE;
+}
+
+#job_profile .block-desc {
+    margin-bottom: 8px;
+    color: #230446;
+    font-feature-settings: 'clig' off, 'liga' off;
+    /* Web/Body */
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 133.333% */
+}
+
+#job_profile .goals-list {
+    display: flex;
+    gap: 16px;
+}
+
+#job_profile .goals-list > div:first-child {
+    flex: 1;
+}
+
+#job_profile .languages-list {
+    display: flex;
+    gap: 16px;
+}
+
+#job_profile .languages-list > div:not(:last-child) {
+    flex: 1;
+}
+
+#job_profile .question-item{
+    display: flex;
+    padding: 24px 16px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    align-self: stretch;
+    border-radius: 8px;
+    background: rgba(30, 34, 46, 0.04);
+
+    color: #230446;
+    font-feature-settings: 'clig' off, 'liga' off;
+    /* Web/Body */
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 133.333% */
+}
+#job_profile .question-item:not(:last-child) {
+    margin-bottom: 12px;
+}
+#job_profile span.renins-badge-label.active {
+    color: #230446;
+}
+#job_profile .row {
+    align-items: center;
+}
+#job_profile .renins-text-input-field {
+    width: auto;
+}
+#job_profile .tippy-box {
+    min-width: 550px;
+    color: #230446;
+}
+#job_profile .block-buttons {
+    margin-top: 40px;
+}
+#job_profile .renins-checkbox-label {
+    width: auto;
+}
+#job_profile input,
+#job_profile select {
+    font-family: 'Inter';
+}
+
+#job_profile .col-6:nth-child(n + 3) {
+    margin-top: 16px;
+}
+#job_profile .add-approvers {
+    display: flex;
+    justify-content: space-between;
+}
+#job_profile .add-approvers .userselector-wrapper:not([readonly]) {
+    width: calc(100% - 72px);
+}
+#job_profile .renins-form-modal-container {
+    padding: 32px;
+}
+.ellipsis_text {
+    white-space: nowrap!important;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-width: 270px;
+}
+
+.radio_error {
+    color: var(--light-text-errored);
+}
